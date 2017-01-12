@@ -1,0 +1,40 @@
+body {
+	padding : 2rem;
+	background-color: white;
+}
+
+button{
+	margin:1rem;
+}
+
+
+
+#grid{
+	background-color: white;
+    margin: 0px auto;
+    height: 90vh;
+    max-width: 90%;
+    padding: 2px;
+    border: 5px solid #337ab7;
+}
+
+.grid-row{
+	/*display : block;*/
+	/*border-bottom: 2px solid red;*/
+	overflow: auto;
+
+}
+
+.cell {
+	margin:0;
+	padding:0;
+	display: table-cell;
+	float:left;
+
+}
+
+.alive{
+	background-color: black;
+}
+
+
