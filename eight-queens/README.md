@@ -1,4 +1,4 @@
-# game-of-life-practice
-Game of Life based on https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-<br>
-Also taking help from https://github.com/vakila/game-of-life
+# Eight Queens
+from https://en.wikipedia.org/wiki/Eight_queens_puzzle
+Right Now its sample code, which attains the first possible soltion using back-tracking
+
